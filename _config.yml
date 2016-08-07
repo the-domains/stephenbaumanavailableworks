@@ -10,6 +10,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+typography_spectrum: 1
 color:
   saturation: 0.6810777
   brandStrength: 0.6809919
@@ -21,6 +22,5 @@ color:
     - '#572617'
     - '#A5500E'
   rhythmicContrast: 1
-typography_spectrum: 1
-layout_spectrum: 0.6159148
+layout_spectrum: 0.2581454
 name: Stephenbaumanavailableworks
