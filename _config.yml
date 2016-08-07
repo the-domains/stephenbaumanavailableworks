@@ -1,14 +1,26 @@
-layout_spectrum: 0.7374687
 color:
   saturation: 0.9110832
-  lightness: 0.7338186
   brandStrength: 0.6809919
+  rhythmicContrast: 0.7779776
   brandColors:
     - '#010100'
     - '#A59274'
     - '#D7770B'
     - '#572617'
     - '#A5500E'
-  rhythmicContrast: 0.7779776
+  lightness: 0.7338186
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.7374687
 typography_spectrum: 1
 name: Stephenbaumanavailableworks
